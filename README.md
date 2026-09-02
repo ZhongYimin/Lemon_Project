@@ -1,1 +1,1 @@
-这是一个项目Lemon的虚拟制片仓库。使用命令 git clone 以克隆本仓库
+这是一个项目Lemon的虚拟制片仓库。使用命令 git clone https://github.com/ZhongYimin/Lemon_Project.git以克隆本仓库
